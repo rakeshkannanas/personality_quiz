@@ -17,7 +17,7 @@ class ResultScreen extends StatelessWidget {
     } else if (score > 15) {
       res = 'You are innocent';
     } else if (score >= 3) {
-      res = 'Great Humanbeing';
+      res = 'Great Human being';
     } else {
       res = 'You are a bad person';
     }
